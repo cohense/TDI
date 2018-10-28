@@ -1,0 +1,100 @@
+,Word,Relative Frequency,POS,Labels
+895,energetic,4.122656568,JJ,Activity Level
+466,calm,5.660173126,JJ,Activity Level
+125,active,7.629093388,JJ,Activity Level
+1124,gentle,8.035112852,JJ,Activity Level
+1095,fun,8.206464014,JJ,Activity Level
+2105,quiet,8.599189163,JJ,Activity Level
+1984,playful,14.76569581,JJ,Activity Level
+1572,local,2.647668347,JJ,Adoption Process/Get Me Home
+721,daily,2.737133809,JJ,Adoption Process/Get Me Home
+2871,willing,3.170784449,JJ,Adoption Process/Get Me Home
+1081,free,4.820222576,JJ,Adoption Process/Get Me Home
+1036,final,4.852564618,JJ,Adoption Process/Get Me Home
+2044,previous,5.309481404,JJ,Adoption Process/Get Me Home
+711,current,7.304141659,JJ,Adoption Process/Get Me Home
+283,available,8.157461907,JJ,Adoption Process/Get Me Home
+2124,ready,10.494823,JJ,Adoption Process/Get Me Home
+1795,new,16.0057181,JJ,Adoption Process/Get Me Home
+145,adoptable,2.49668772,JJ,Adoption Process/Get Me Home
+1786,nervous,2.700797298,JJ,Area of Concern
+2231,rough,2.923307085,JJ,Area of Concern
+1028,feral,3.39638934,JJ,Area of Concern
+2754,unable,3.683711755,JJ,Area of Concern
+2460,special,8.362019415,JJ,Area of Concern
+1781,negative,10.08344011,JJ,Area of Concern
+2666,tiny,3.290123642,JJ,Demographics
+2248,sable,4.149134278,JJ,Demographics
+1495,large,4.400212164,JJ,Demographics
+2302,senior,4.805323526,JJ,Demographics
+2429,soft,5.429432259,JJ,Demographics
+363,black,6.85050063,JJ,Demographics
+1018,feline,7.120844804,JJ,Demographics
+2866,white,7.799758215,JJ,Demographics
+1845,older,7.971107258,JJR,Demographics
+352,big,9.295453389,JJ,Demographics
+2399,small,9.6916465,JJ,Demographics
+1023,female,10.34580754,JJ,Demographics
+1635,male,10.3461487,JJ,Demographics
+2923,young,11.92398472,JJ,Demographics
+1564,little,23.45110626,JJ,Demographics
+1843,old,30.30123424,JJ,Demographics
+203,american,2.55487025,JJ,Demographics
+1951,petite,2.632624517,JJ,Demographics
+2742,tuxedo,2.638252046,JJ,Demographics
+1362,independent,3.56758047,JJ,Intelligence and Training
+707,curious,4.764693454,JJ,Intelligence and Training
+1308,housebroken,5.264861978,JJ,Intelligence and Training
+2402,smart,5.604042534,JJ,Intelligence and Training
+2698,trained,12.58631392,JJ,Intelligence and Training
+1398,interested,13.51151321,JJ,Intelligence and Training
+585,click,3.290442918,JJ,Intelligence and Training
+860,eager,2.563858338,JJ,Intelligence and Training
+2584,sweetest,3.13177222,JJS,Kindness/Friendliness
+1799,nice,4.502699304,JJ,Kindness/Friendliness
+2420,social,6.713183822,JJ,Kindness/Friendliness
+1217,happy,10.96303984,JJ,Kindness/Friendliness
+1087,friendly,14.41222975,JJ,Kindness/Friendliness
+2583,sweet,23.68036743,JJ,Kindness/Friendliness
+2039,pretty,6.907633401,JJ,Looks
+1207,handsome,7.157999037,JJ,Looks
+1154,gorgeous,7.324526942,JJ,Looks
+157,adorable,7.511030941,JJ,Looks
+320,beautiful,10.01161035,JJ,Looks
+764,dental,2.640316711,JJ,Medical
+1961,physical,2.919819549,JJ,Medical
+1675,medical,3.541557586,JJ,Medical
+188,alive,4.321208584,JJ,Medical
+1235,healthy,7.613463728,JJ,Medical
+2780,vaccinated,7.653585776,JJ,Medical
+1218,hard,3.866718896,JJ,Area of Concern
+1550,likely,2.642750571,JJ,No Clear Label
+1455,key,2.659673503,JJ,No Clear Label
+1851,open,3.090162501,JJ,No Clear Label
+1349,important,3.171577693,JJ,No Clear Label
+2687,total,3.301559414,JJ,No Clear Label
+2011,possible,3.377222063,JJ,No Clear Label
+1608,low,3.496792452,JJ,No Clear Label
+2373,single,3.792289318,JJ,No Clear Label
+612,comfortable,4.167932941,JJ,No Clear Label
+2010,positive,4.257244019,JJ,No Clear Label
+1613,lucky,4.258964541,JJ,No Clear Label
+1267,high,4.433673446,JJ,No Clear Label
+2251,safe,4.586552217,JJ,No Clear Label
+2347,short,4.845518185,JJ,No Clear Label
+870,easy,5.58920157,JJ,No Clear Label
+1040,fine,5.661346975,JJ,No Clear Label
+107,able,5.905560578,JJ,No Clear Label
+2571,sure,7.423925897,JJ,No Clear Label
+625,complete,9.202453668,JJ,No Clear Label
+2211,right,9.746303334,JJ,No Clear Label
+1774,necessary,2.524659492,JJ,No Clear Label
+348,better,5.016551337,JJR,Superlative
+998,favorite,6.741081905,JJ,Superlative
+2886,wonderful,7.308140769,JJ,Superlative
+1935,perfect,9.608399381,JJ,Superlative
+346,best,15.08171136,JJS,Superlative
+1149,good,17.93662352,JJ,Superlative
+1167,great,18.38392168,JJ,Superlative
+2546,stunning,2.523354509,JJ,Superlative
+289,awesome,2.576340011,JJ,Superlative
